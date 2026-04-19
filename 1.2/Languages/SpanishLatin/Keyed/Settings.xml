@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmartDeconstruct>Smarter Deconstruction</SmartDeconstruct>
+  <SmartDeconstruct.Buildings.Label>¿Revisar techos al desconstruir edificios?</SmartDeconstruct.Buildings.Label>
+  <SmartDeconstruct.Buildings.Tooltip>Función base del mod. Desactiva esto y "Revisar techos al minar" para deshabilitar el mod por completo.</SmartDeconstruct.Buildings.Tooltip>
+  <SmartDeconstruct.CancelThick.Label>¿Cancelar órdenes bajo techos gruesos?</SmartDeconstruct.CancelThick.Label>
+  <SmartDeconstruct.CancelThick.Tooltip>Si se activa, las órdenes que causen el colapso de un techo de montaña se cancelarán y se mostrará un aviso. No se recomienda desactivar. Se ignora si "Eliminar techos gruesos" está activo.</SmartDeconstruct.CancelThick.Tooltip>
+  <SmartDeconstruct.Mining.Label>¿Revisar techos al minar?</SmartDeconstruct.Mining.Label>
+  <SmartDeconstruct.Mining.Tooltip>Aplica la funcionalidad de desconstrucción inteligente también a las tareas de minería.</SmartDeconstruct.Mining.Tooltip>
+  <SmartDeconstruct.Thick.Label>¿Eliminar techos gruesos?</SmartDeconstruct.Thick.Label>
+  <SmartDeconstruct.Thick.Tooltip>¿Pueden los peones eliminar techos gruesos? Nota: Se activará automáticamente si tienes un mod que lo permita, aunque no es obligatorio tener uno.</SmartDeconstruct.Thick.Tooltip>
+  <SmartDeconstruct.ThickResearch.Label>Investigación para eliminar techos gruesos</SmartDeconstruct.ThickResearch.Label>
+  <SmartDeconstruct.ThickResearch.Tooltip>Proyecto de investigación necesario para eliminar techos gruesos. Se configura solo si tienes 'Extended Roofing' o 'Raise the Roof'. Requiere activar 'Eliminar techos gruesos'.</SmartDeconstruct.ThickResearch.Tooltip>
+  <SmartDeconstruct.NonColonists.Label>¿Habilitar para no-colonos?</SmartDeconstruct.NonColonists.Label>
+  <SmartDeconstruct.NonColonists.Tooltip>Permite que peones que no sean tus colonos o animales realicen las comprobaciones de seguridad.</SmartDeconstruct.NonColonists.Tooltip>
+  <SmartDeconstruct.Animals.Label>¿Habilitar para animales?</SmartDeconstruct.Animals.Label>
+  <SmartDeconstruct.Animals.Tooltip>Permite que los animales realicen estas comprobaciones. Si se desactiva, los animales harán colapsar los techos sobre sí mismos como en el juego original.</SmartDeconstruct.Animals.Tooltip>
+  <SmartDeconstruct.CurrentModVersion.Label>Versión instalada: {0}</SmartDeconstruct.CurrentModVersion.Label>
+</LanguageData>
